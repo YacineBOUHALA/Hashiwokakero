@@ -1,4 +1,4 @@
-﻿*************************** Manuel Technique ********************************
+﻿******************** Manuel Technique **************************
 
 1. pour lancer l’application double cliquez sur le fichier .jar fournit, si cela ne marche pas c’est que 	votre pc n’autorise pas l’exécution d’un fichier portant cette extension, dans ce cas je vous 	invite a faire un clique droit sur le fichier puis allez vers →propriété → permission → et 	cocher la case autoriser l’exécution du fichier comme un programme .
 
